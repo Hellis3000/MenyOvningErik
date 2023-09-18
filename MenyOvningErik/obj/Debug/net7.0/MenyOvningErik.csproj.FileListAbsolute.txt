@@ -1,0 +1,14 @@
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.AssemblyInfoInputs.cache
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.AssemblyInfo.cs
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.csproj.CoreCompileInputs.cache
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\bin\Debug\net7.0\MenyOvningErik.exe
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\bin\Debug\net7.0\MenyOvningErik.deps.json
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\bin\Debug\net7.0\MenyOvningErik.runtimeconfig.json
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\bin\Debug\net7.0\MenyOvningErik.dll
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\bin\Debug\net7.0\MenyOvningErik.pdb
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.dll
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\refint\MenyOvningErik.dll
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.pdb
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\MenyOvningErik.genruntimeconfig.cache
+C:\Users\Hellis\source\repos\MenyOvningErik\MenyOvningErik\obj\Debug\net7.0\ref\MenyOvningErik.dll
