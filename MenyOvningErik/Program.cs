@@ -125,6 +125,7 @@ namespace Meny
                                 }
                                 else {
                                     Console.WriteLine("Write a valid age");
+                                    Console.WriteLine("");
                                 }
 
 
@@ -176,7 +177,7 @@ namespace Meny
                     
                         for (int i = 0; i < 10; i++) 
                         {
-                            Console.WriteLine(line);
+                            Console.Write(line + ", ");
                         }
 
                         break;
@@ -199,6 +200,7 @@ namespace Meny
                         else
                         { 
                         Console.Write("Your third word is: " + third[2]);
+                            Console.Write(" ");
                         }
                         
 
